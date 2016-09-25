@@ -19,6 +19,7 @@ and code from [CppCon 2015](http://cppcon.org).
 
  - [3D Face Tracking and Reconstruction using Modern C++](Presentations/3D Face Tracking and Reconstruction using Modern C++/3D Face Tracking and Reconstruction using Modern C++ - Patrik Huber - CppCon 2015.pdf) by Patrik Huber
  - [A C++14 Approach to Dates and Times](Presentations/A C++14 Approach to Dates and Times/A C++14 Approach to Dates and Times - Howard Hinnant - CppCon 2015.pdf) by Howard Hinnant
+ - [A Crash Course in Open Source Licensing](Presentations/A Crash Course in Open Source Licensing/A Crash Course in Open Source Licensing - Kevin P. Fleming - CppCon 2015.zip) by Kevin P. Fleming
  - [A Few Good Types](Presentations/A Few Good Types/A Few Good Types - Neil MacIntosh - CppCon 2015.pdf) by Neil MacIntosh
  - [All Your Tests Are Terrible](Presentations/All Your Tests Are Terrible/All Your Tests Are Terrible - Titus Winters and Hyrum Wright - CppCon 2015.pdf) by Titus Winters and Hyrum Wright
  - [allocator Is to Allocation what vector Is to Vexation](Presentations/allocator Is to Allocation what vector Is to Vexation/allocator Is to Allocation what vector Is to Vexation - Andrei Alexandrescu - CppCon 2015.pdf) by Andrei Alexandrescu
@@ -35,6 +36,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [C++ metaprogramming- a paradigm shift](Presentations/C++ metaprogramming- a paradigm shift/C++ metaprogramming- a paradigm shift - Louis Dionne - CppCon 2015.pdf) by Louis Dionne
  - [C++ Multi-dimensional Arrays for Computational Physics and Applied Mathematics](Presentations/C++ Multi-dimensional Arrays for Computational Physics and Applied Mathematics/C++ Multi-dimensional Arrays for Computational Physics and Applied Mathematics - Pramod Gupta - CppCon 2015.pdf) by Pramod Gupta
  - [C++ on the Web](Presentations/C++ on the Web/C++ on the Web - JF Bastien - CppCon 2015.pdf) by JF Bastien
+ - [C++11, 14, 17 Atomics - the Deep Dive](Presentations/C++11, 14, 17 Atomics - the Deep Dive/C++11, 14, 17 Atomics - the Deep Dive - Michael Wong - CppCon 2015.pdf) by Michael Wong
  - [CLANG C2 for Windows](Presentations/CLANG C2 for Windows/CLANG C2 for Windows - Jim Radigan - CppCon 2015.pptx) by Jim Radigan
  - [Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015](Presentations/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015.odp) by Lawrence Crowl \[[.odp](Presentations/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015.odp)\] \[[.ppt](Presentations/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015.ppt)\] \[[more materials](Presentations/Comparison is not simple, but it can be simpler - Lawrence Crowl - CppCon 2015)\]
  - [Compile-time tools for generic programming in C++](Presentations/Compile-time tools for generic programming in C++/Compile-time tools for generic programming in C++ - Abel Sinkovics - CppCon 2015.pdf) by Abel Sinkovics
@@ -87,8 +89,10 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Transducers, from Clojure to C++](Presentations/Transducers, from Clojure to C++/Transducers, from Clojure to C++ - Juan Pedro Bolivar Puente - CppCon 2015.md) by Juan Pedro Bolivar Puente \[[more materials](Presentations/Transducers, from Clojure to C++)\]
  - [Type Traits](Presentations/Type Traits/Type Traits - Marshall Clow - CppCon 2015.pdf) by Marshall Clow
  - [Unexceptional exceptions](Presentations/Unexceptional exceptions/Unexceptional exceptions - Fedor Pikus - CppCon 2015.pdf) by Fedor Pikus
+ - [Value Semantics](Presentations/Value Semantics/Value Semantics - John Lakos - CppCon 2015.pdf) by John Lakos
  - [Variable Templates - C++14 compile-time computation](Presentations/Variable Templates - C++14 compile-time computation/Variable Templates - C++14 compile-time computation - Peter Sommerlad - CppCon 2015.pdf) by Peter Sommerlad
  - [Variadic Templates - Guidelines, Examples and Compile-time computation](Presentations/Variadic Templates - Guidelines, Examples and Compile-time computation/Variadic Templates - Guidelines, Examples and Compile-time computation - Peter Sommerlad - CppCon 2015.pdf) by Peter Sommerlad
+ - [What is Open Source, and Why Should You Care](Presentations/What is Open Source, and Why Should You Care/What is Open Source, and Why Should You Care - Kevin P. Fleming - CppCon 2015.zip) by Kevin P. Fleming
  - [What's New In VS2015](Presentations/What's New In VS2015/What's New In VS2015 - Steve Carroll - CppCon 2015.pdf) by Steve Carroll
  - [Work Stealing](Presentations/Work Stealing/Work Stealing - Pablo Halpern - CppCon 2015.pptx) by Pablo Halpern
  - [Writing Great Libraries in 89 Easy Steps](Presentations/Writing Great Libraries in 89 Easy Steps/Writing Great Libraries in 89 Easy Steps - Zach Laine - CppCon 2015.md) by Zach Laine
@@ -104,6 +108,7 @@ and code from [CppCon 2015](http://cppcon.org).
  - [Expression Templates What Why When Were](Tutorials/Expression Templates What Why When Were/Expression Templates What Why When Were - Joel Falcou - CppCon 2015.pdf) by Joel Falcou \[[more materials](Tutorials/Expression Templates What Why When Were)\]
  - [Futures from Scratch](Tutorials/Futures from Scratch/Futures from Scratch - Arthur O'Dwyer - CppCon 2015.pdf) by Arthur O'Dwyer
  - [Implementation of a component-based entity system in modern C++](Tutorials/Implementation of a component-based entity system in modern C++/Implementation of a component-based entity system in modern C++ - Vittorio Romeo - CppCon 2015.pdf) by Vittorio Romeo \[[more materials](Tutorials/Implementation of a component-based entity system in modern C++)\]
+ - [Integrating generators EDSL's for Boost.Spirit X3](Tutorials/Integrating generators EDSL's for Boost.Spirit X3/Integrating generators EDSL's for Boost.Spirit X3 - Felipe Magno de Almeida - CppCon 2015.pdf) by Felipe Magno de Almeida
  - [Kiss Templates](Tutorials/Kiss Templates/Kiss Templates - Roland Bock - CppCon 2015.pdf) by Roland Bock
  - [Lambdas from First Principles](Tutorials/Lambdas from First Principles/Lambdas from First Principles - Arthur O'Dwyer - CppCon 2015.pdf) by Arthur O'Dwyer
  - [Racing the Filesystem](Tutorials/Racing the Filesystem/Racing the Filesystem - Niall Douglas - CppCon 2015.pdf) by Niall Douglas
